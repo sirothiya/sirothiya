@@ -50,8 +50,8 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/shalini2024/" target="_blank">
-    <img src="https://github.com/sirothiya/sirothiya/blob/main/Leetcode.png" width="400" alt="LeetCode Profile"/>
+  <a href="https://leetcode.com/u/shalini2024/">
+    <img src="https://raw.githubusercontent.com/sirothiya/sirothiya/main/Leetcode.png" width="420" alt="LeetCode Profile"/>
   </a>
 </p>
 
@@ -90,7 +90,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sirothiya/sirothiya/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sirothiya/sirothiya/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
