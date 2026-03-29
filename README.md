@@ -52,7 +52,6 @@
 <p align="center">
   <a href="https://leetcode.com/u/shalini2024/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="35"/>
-    <img src="https://img.shields.io/badge/LeetCode-800%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>  
 
