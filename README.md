@@ -50,7 +50,9 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sirothiya?theme=dark&ext=contest" />
+  <a href="https://leetcode.com/u/shalini2024/" target="_blank">
+    <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/leetcode.png" width="400" alt="LeetCode Profile"/>
+  </a>
 </p>
 
 <p align="center">
