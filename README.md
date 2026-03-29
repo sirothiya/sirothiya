@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/shalini2024/">
-    <img src="https://raw.githubusercontent.com/sirothiya/sirothiya/blob/main/.github/Leetcode.png" width="420" />
+    <img src="https://img.shields.io/badge/LeetCode-800%2B%20Problems-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
